@@ -1,0 +1,2 @@
+#!/bin/sh
+knife cookbook site share "simple_consul_alerts" "Other"
